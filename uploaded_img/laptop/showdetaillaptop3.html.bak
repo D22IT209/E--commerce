@@ -1,0 +1,84 @@
+<html>
+<head>
+<title> Digital Marketing
+</title>
+<link rel="stylesheet" href="onlineshoppingstyle.css">
+</head>
+
+<body bgcolor="#F1F3F6">
+
+<table border="0" width="100%" bgcolor="#24262b">
+
+<tr>
+<td><img src="logo.png" width="100" height="100"></td>
+<td><input type="text" placeholder="Search for products, brands and more"  style="width:550px;height:35px;">
+    <input type="button" value="search" style="width:120px;height:35px;">
+</td>
+</tr>
+</table>
+<br>
+<br>
+<table border="3" width="100%">
+<tr>
+<td width="25%"><img src="asusvivobook14.jpg" height="100%" width="100%"></td>
+<td><b><font size="5">ASUS VivoBook 14
+Intel Core i7-1065G7 10th Gen, 14-ck2018tu</font></b>
+<br>
+<br>
+<font color="green">Special Price</font>
+<br>
+<font size="4"><b>&#x20b9;55,000/-</b></font> 
+<font color="grey">&#x20b9;62,199/-</font> 10% off
+<br>
+<ul>
+<font size="4">About this item
+<li>Graphics: Intel UHD Graphics</li>
+<li>Operating System: Pre-loaded Windows 10 Home with lifetime validity</li>
+<li>Software: Pre-installed Microsoft Office Home & Student 2019</li>
+<li>Memory & Storage: 8 GB DDR4-2666 SDRAM (1 x 8 GB) | 512 GB PCIe NVMe M.2 SSD</li>
+</ul>
+<br>
+
+<input type="button" value="Buy Now" style="background-color:green;color:white;width:200px;height:35px;font-size:16px;">
+<input type="button" value="Add To Cart" style="background-color:red;color:white;width:200px;height:35px;font-size:16px;">
+</td>
+</tr>
+</table>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="stylefooter.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+</head>
+<body>
+
+  <footer class="footer">
+  	 <div class="container">
+  	 	<div class="row">
+  	 		<div class="footer-col">
+  	 			<h4>online shop</h4>
+  	 			<ul>
+  	 				<li><a href="#">Electronics</a></li>
+  	 				<li><a href="#">Men</a></li>
+  	 				<li><a href="#">Women</a></li>
+  	 				<li><a href="#">Sports</a></li>
+  	 			</ul>
+  	 		</div>
+  	 		<div class="footer-col">
+  	 			<h4>follow us</h4>
+  	 			<div class="social-links">
+  	 				<a href="#"><i class="fab fa-facebook-f"></i></a>
+  	 				<a href="#"><i class="fab fa-twitter"></i></a>
+  	 				<a href="#"><i class="fab fa-instagram"></i></a>
+  	 				<a href="#"><i class="fab fa-linkedin-in"></i></a>
+  	 			</div>
+				   </div>
+				   <div class="footer-col">
+					<h4>search</h4>
+					<td style="text-align:center;"><input type="text" placeholder="Search">
+						<input type="button" value="Search">
+  	 		</div>
+  	 	</div>
+  	 </div>
+  </footer>
+</body>
+</html>
